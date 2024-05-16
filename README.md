@@ -28,13 +28,17 @@ Memo는 사용자가 메모를 작성하고 관리할 수 있는 웹 애플리�
 - 카테고리별 저장 기능
 - 사용자 인증 및 권한 관리
 
-## 스크린샷
+### Memo 실행 화면
+![HomePage](https://github.com/Memo-Maker/Memo/assets/90402009/df2f4407-829f-4a12-b588-f28a69d8a81b)
+![HomePage_검색](https://github.com/Memo-Maker/Memo/assets/90402009/717cb8eb-d23e-4a55-b573-1ed55e967437)
+![MemoryPage](https://github.com/Memo-Maker/Memo/assets/90402009/3adc09cb-02ae-40fb-8788-f10a80106ce7)
+![MemoryPage_gpt](https://github.com/Memo-Maker/Memo/assets/90402009/fac78a08-80fd-4e6b-aeba-a99d4a267beb)
+![MemoryPage_Save](https://github.com/Memo-Maker/Memo/assets/90402009/eb63c9b6-1946-4e91-b592-c7c8b252a298)
+![MyPage](https://github.com/Memo-Maker/Memo/assets/90402009/25bd65bb-e284-4408-80d3-44bf7cbfc78c)
 
-### 메모 작성 화면
-![메모 작성 화면](./img/note_creation.png)
 
-### 메모 리스트 화면
-![메모 리스트 화면](./img/note_list.png)
+
+
 
 ## 프로젝트 구조
 - 프론트엔드: React, styled-components, react-toastify, draft-wysiwyg
