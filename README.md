@@ -1,8 +1,6 @@
 # Memo
 
-# Memo
-
-Memo는 사용자가 메모를 작성하고 관리할 수 있는 웹 애플리케이션입니다. 이 애플리케이션은 사용자 친화적인 인터페이스와 강력한 기능을 제공하여 메모를 효율적으로 관리할 수 있도록 돕습니다.
+Memo는 현대인의 바쁜 일상을 위한 혁신적인 웹서비스로, 유튜브 URL을 한 번의 복사/붙여넣기만으로 영상을 요약한 내용을 읽을 수 있고, 메모하며 카테고리별로 저장할 수 있게 해줍니다. 시간을 효율적으로 사용하는 데 초점을 맞춰, 중요한 정보를 빠르게 얻고 정리할 수 있도록 돕습니다.
 
 ## 팀원 구성
 
@@ -37,13 +35,9 @@ Memo는 사용자가 메모를 작성하고 관리할 수 있는 웹 애플리�
 ![MyPage](https://github.com/Memo-Maker/Memo/assets/90402009/25bd65bb-e284-4408-80d3-44bf7cbfc78c)
 
 
-
-
-
 ## 프로젝트 구조
-- 프론트엔드: React, styled-components, react-toastify, draft-wysiwyg
-- 백엔드: Spring Boot, JPA, MySQL
-- 인공지능: Flask, OpenAI Whisper, LangChain, ChatGPT
+
+
 
 ## 사용 기술
 
@@ -71,7 +65,7 @@ Memo는 사용자가 메모를 작성하고 관리할 수 있는 웹 애플리�
 
 ## 문의
 
-프로젝트에 대한 문의 사항은 [your-email@example.com](mailto:your-email@example.com)으로 연락해 주세요.
+프로젝트에 대한 문의 사항은 [psh2968@naver.com](mailto:psh2968@naver.com)으로 연락해 주세요.
 ```
 
 위의 `Readme.md` 파일은 Memo 웹사이트의 주요 정보와 설치 및 실행 방법을 포함하고 있으며, 실제 사용하는 화면의 사진도 추가되어 있습니다. 필요한 부분을 수정하거나 추가하여 사용하시면 됩니다.
