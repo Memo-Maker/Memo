@@ -2,6 +2,11 @@
 
 MEMO는 유튜브 영상을 AI로 요약하고 메모할 수 있는 웹서비스
 
+## 개요
+<div style="border: 1px solid #e1e4e8; color:#000000; padding: 16px; border-radius: 8px; background-color: #d4e7fa;">
+2024 트렌드 코리아의 첫 키워드인 '분초 사회'는 시간의 가치가 중요해지는 사회적 변화를 뜻합니다. 현대인들은 돈과 같이 시간을 중시하며, 시간을 쪼개 효율적으로 사용하고, 여러 일을 동시에 처리하며, 결론부터 확인한 후 일을 진행하는 경우가 많습니다. 이런 환경 속에서 MEMO는 유튜브 URL을 한 번의 복사/붙여넣기만으로 영상을 요약한 내용으로 읽을 수 있어 중요한 정보를 빠르게 메모할 수 있는 효율적인 웹서비스입니다.
+</div>
+
 ## 팀원 구성
 
 <div align="center">
@@ -13,11 +18,11 @@ MEMO는 유튜브 영상을 AI로 요약하고 메모할 수 있는 웹서비스
 </div>
 
 
-- **팀원 및 담당 분야:**
-    - 박시현: 프론트엔드, 기획
-    - 김택신: 프론트엔드, Flask AI 서버 구현
-    - 정진혁: 백엔드, DB설계
-    - 최영서: 백엔드, DB설계
+**팀원 및 담당 분야:**
+- 박시현: 프론트엔드, 기획
+- 김택신: 프론트엔드, Flask AI 서버 구현
+- 정진혁: 백엔드, DB설계
+- 최영서: 백엔드, DB설계
 
 ## 주요 기능
 - AI를 이용한 유튜브 영상 요약
@@ -54,9 +59,9 @@ MEMO는 유튜브 영상을 AI로 요약하고 메모할 수 있는 웹서비스
 
 ## 사용 기술
 
-- **프론트엔드:** React, styled-components, react-toastify, draft-wysiwyg
+- **프론트엔드:** React, styled-components, react-toastify, tiptap Eidtor
 - **백엔드:** Spring Boot, JPA, MySQL
-- **인공지능:** Flask, OpenAI Whisper, LangChain, Chat Gpt
+- **인공지능:** Flask, pytube, OpenAI Whisper, LangChain, Chat Gpt
 
 ## 기대효과
 
