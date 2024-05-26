@@ -28,13 +28,25 @@ MEMO는 유튜브 영상을 AI로 요약하고 메모할 수 있는 웹서비스
 - 사용자 인증 및 권한 관리
 
 ### Memo 실행 화면
-![HomePage](https://github.com/Memo-Maker/Memo/assets/90402009/df2f4407-829f-4a12-b588-f28a69d8a81b)
-![HomePage_검색](https://github.com/Memo-Maker/Memo/assets/90402009/717cb8eb-d23e-4a55-b573-1ed55e967437)
-![MemoryPage](https://github.com/Memo-Maker/Memo/assets/90402009/3adc09cb-02ae-40fb-8788-f10a80106ce7)
-![MemoryPage_gpt](https://github.com/Memo-Maker/Memo/assets/90402009/fac78a08-80fd-4e6b-aeba-a99d4a267beb)
-![MemoryPage_Save](https://github.com/Memo-Maker/Memo/assets/90402009/eb63c9b6-1946-4e91-b592-c7c8b252a298)
-![MyPage](https://github.com/Memo-Maker/Memo/assets/90402009/25bd65bb-e284-4408-80d3-44bf7cbfc78c)
 
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/df2f4407-829f-4a12-b588-f28a69d8a81b" width="70%" alt="HomePage">
+</div>
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/717cb8eb-d23e-4a55-b573-1ed55e967437" width="70%" alt="HomePage_검색">
+</div>
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/3adc09cb-02ae-40fb-8788-f10a80106ce7" width="70%" alt="MemoryPage">
+</div>
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/fac78a08-80fd-4e6b-aeba-a99d4a267beb" width="70%" alt="MemoryPage_gpt">
+</div>
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/eb63c9b6-1946-4e91-b592-c7c8b252a298" width="70%" alt="MemoryPage_Save">
+</div>
+<div align="center">
+  <img src="https://github.com/Memo-Maker/Memo/assets/90402009/25bd65bb-e284-4408-80d3-44bf7cbfc78c" width="70%" alt="MyPage">
+</div>
 
 ## 프로젝트 구조
 <img width="726" alt="image" src="https://github.com/Memo-Maker/Memo/assets/93407332/f792fc20-d490-44e0-b66d-dc65934d5366">
