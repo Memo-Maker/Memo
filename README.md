@@ -61,7 +61,7 @@ MEMO는 유튜브 영상을 AI로 요약하고 메모할 수 있는 웹서비스
 
 - **프론트엔드:** React, styled-components, react-toastify, tiptap Eidtor
 - **백엔드:** Spring Boot, JPA, MySQL
-- **인공지능:** Flask, pytube, OpenAI Whisper, LangChain, Chat Gpt
+- **Ai서버:** Flask, pytube, OpenAI Whisper, LangChain, Chat Gpt
 
 ## 기대효과
 
